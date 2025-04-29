@@ -84,3 +84,7 @@ Data-Challenge-CT-Mon-RNP
 ├── 📓 Trabalho Final - Data Challenge CT-Mon.ipynb 
 
 ├── 📄 Trabalho_Final_Desafio_CT_Mon_RNP.pdf
+
+---
+
+> Este projeto é parte de um exercício acadêmico com fins de aprendizado e desenvolvimento de competências em mineração de dados e modelagem preditiva aplicadas a redes de computadores.
